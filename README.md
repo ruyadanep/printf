@@ -1,0 +1,3 @@
+printf				directory
+c file
+
